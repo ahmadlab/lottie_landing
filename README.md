@@ -1,16 +1,9 @@
 # landing_preparation
 
-A new Flutter project.
+A flutter project that contain full example how to implement lottie animation on flutter landing page.
 
-## Getting Started
+## Screenhsoot
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![First Page](screenshoot/1.png)
+![Secound Page](screenshoot/2.png)
+![thrid Page](screenshoot/3.png)
